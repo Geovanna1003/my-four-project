@@ -1,0 +1,42 @@
+
+div{
+    text-align: center;
+    width: 500px;
+    line-height: 28px;
+    margin: 10px auto;
+}
+img{
+    width: 150px;
+    margin-top: 15px;
+}
+h1{
+    font-size: 21px;
+    
+    
+}
+h2{
+    font-size: 18px;
+    color: #757575;
+    font-weight: normal;
+}
+
+a{
+    text-decoration: none;
+    margin: 0 10px;
+   
+}
+.imagem{
+    width: 500px;;
+}
+.texto-negrito{
+    font-weight: bold;
+}
+.texto-vermelho{
+    color: #ff2200;
+    font-weight: normal;
+}
+.imagem-rede-social{
+    width: 40px;
+    
+}
+
